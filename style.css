@@ -1,0 +1,38 @@
+body{
+    background-color:#a1c5f3;
+}
+
+.sidebar{
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-left:500px;
+    padding-bottom:200px;
+    margin-bottom: 00px;
+}
+.perfil{
+    display: flex;
+    justify-content: center;
+    color:burlywood;
+}
+.nav{
+    margin-top: 50px;
+    margin-left: px;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+.profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.image{
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+
